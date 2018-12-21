@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.1/src/libkdegames-18.08.1.tar.xz",
-                    "sha256": "1c8f0e8cff49d2238d8b5f457134db4e0050a4a78b071c5a21ed21f0c0abb817"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
+                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
                 } 
             ]
         },
@@ -43,8 +43,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.50/portingAids/kdelibs4support-5.50.0.tar.xz", 
-                    "sha256": "b4800719c22fbb6643ea17c83eb01fe4468604c19c5bfd89430dba6b59b8348a" 
+                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
+                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
                 } 
             ]
         },
@@ -54,8 +54,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.1/src/palapeli-18.08.1.tar.xz", 
-                    "sha256": "14ba3f8b9643a40f8ee44a54693f953a6fd1f3f747a84eeeb6d6a22f2bed869d" 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/palapeli-18.12.0.tar.xz",
+                    "sha256": "9c47814cc4d939bdb804a4ed36cdf87fd480baacd1cdd3f60fe8861601d7cb25"
                 } 
             ]
         }
