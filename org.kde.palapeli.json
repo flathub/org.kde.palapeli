@@ -1,7 +1,7 @@
 {
     "id": "org.kde.palapeli",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "palapeli",
     "rename-icon": "palapeli",
@@ -20,20 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
-                } 
-            ]
-        },
-        {
-            "name": "kdelibs4support",
-            "buildsystem": "cmake-ninja",
-            "config-opts": ["-DCMAKE_BUILD_TYPE=RelWithDebInfo"],
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/frameworks/5.53/portingAids/kdelibs4support-5.53.0.tar.xz",
-                    "sha256": "208a2f308aa55a1ec9c311e3c3224d65d78feb53a1df127b26007f046a9821aa"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkdegames-19.04.0.tar.xz",
+                    "sha256": "2965e4a313609f6408becb13e54e26bfe14b37b58e7737e051129896f6e8bcd3"
                 } 
             ]
         },
@@ -43,8 +31,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/palapeli-18.12.0.tar.xz",
-                    "sha256": "9c47814cc4d939bdb804a4ed36cdf87fd480baacd1cdd3f60fe8861601d7cb25"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/palapeli-19.04.0.tar.xz",
+                    "sha256": "21f8b6b109d6cc61acbb0ee01aa31982bb6e27e8894e4f00407f52904d177a2b"
                 } 
             ]
         }
