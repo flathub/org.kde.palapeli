@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.2/src/libkdegames-19.12.2.tar.xz",
-                    "sha256": "270b20c902dda233f9b28f67eca582d810693d715ce768da6082bfa375248172"
+                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/libkdegames-19.12.3.tar.xz",
+                    "sha256": "39cf5039b7fe11688028df026252c9cd4424546817b5bb635af2558f71ba6b20"
                 } 
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.2/src/palapeli-19.12.2.tar.xz",
-                    "sha256": "e94892202374faa41940a402f687b97562f1d001b02f19c336d8905300521da6"
+                    "url": "https://download.kde.org/stable/release-service/19.12.3/src/palapeli-19.12.3.tar.xz",
+                    "sha256": "6989bbc94ed955f6990d40bccbc0c38768898bf2ccb8163c45119517340b723d"
                 } 
             ]
         }
