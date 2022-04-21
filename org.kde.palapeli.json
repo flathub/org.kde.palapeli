@@ -17,9 +17,9 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
+            "sources": [
+                {
+                    "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/libkdegames-21.12.3.tar.xz",
                     "sha256": "4b2f3fb2af0866f7aba1ae679b505faeb7577b0ab50bd619ecb642c48ae0b574",
                     "x-checker-data": {
@@ -28,24 +28,24 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/libkdegames-$version.tar.xz"
                     }
-                } 
+                }
             ]
         },
         {
             "name": "palapeli",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/palapeli-21.12.3.tar.xz",
-                    "sha256": "0f55a6f34867b6e10df956061df25c9211181111e92cd91d2ca5eb84287ed11c",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/palapeli-22.04.0.tar.xz",
+                    "sha256": "6dd690a2a370469e7a98a6bed2564b5f84f2f63222588eceaabc827f427e3d72",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/palapeli-$version.tar.xz"
                     }
-                } 
+                }
             ]
         }
     ]
