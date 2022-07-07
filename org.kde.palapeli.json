@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/palapeli-22.04.2.tar.xz",
-                    "sha256": "50a3a3461e703a796868ded437ac3a74769641cdb73f423da4e1bb7e5180c436",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/palapeli-22.04.3.tar.xz",
+                    "sha256": "1b13c799e1d03852707997e96be7846037883aefba68e8e10ed0b85c8b2f912f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
