@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/libkdegames-22.08.1.tar.xz",
-                    "sha256": "a9f3c29e05796fd09d155d9c263dcd7b9a70903994cc56fb12dc8d03145c30aa",
+                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/libkdegames-22.08.2.tar.xz",
+                    "sha256": "524ad11b13ac946d86e599a7a255b651f9377fad4433a4ec22924c8f54cc6dbd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/palapeli-22.08.1.tar.xz",
-                    "sha256": "3fd5b9257d4836cba970f66d24f4e2136bdcdff64dd4ec6ab1dc2404a8e6e33f",
+                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/palapeli-22.08.2.tar.xz",
+                    "sha256": "6f1cd1465d372f1daaf5c55b0ad18c11f74544ed2af019d1289be79c1fa1547a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
