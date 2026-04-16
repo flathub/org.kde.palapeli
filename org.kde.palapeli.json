@@ -27,8 +27,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/libkdegames-25.12.3.tar.xz",
-                    "sha256": "64605a58b087a57dc504d8e7fa4d637b4d59fb91ba1b4ed60f96fc78568f141c",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/libkdegames-26.04.0.tar.xz",
+                    "sha256": "12d615bc466bbdff4e85336d9cab6453dda8b4b20c8a48b74c49ec89e70d76bd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -44,8 +44,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/palapeli-25.12.3.tar.xz",
-                    "sha256": "5a8f5cd6ae8fa8f29dada3808417a51c355e4e3077b1063152324d9406cd25e5",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/palapeli-26.04.0.tar.xz",
+                    "sha256": "182073c27e161057eedace86e9b1d483710ba32fa095aa4b822d787e71107905",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
